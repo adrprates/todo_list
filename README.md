@@ -19,7 +19,7 @@
 ## 📸 Preview
 
 ### 🏠 Task List Screen & 📰 Task Detail Screen  
-Shows all tasks — add, complete, delete or open details.
+<img src="gif/app.gif" alt="App Preview" width="300"/>
 
 ## 🛠️ Built With
 
